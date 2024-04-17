@@ -2,7 +2,6 @@ package main.java;
 
 public class FizzBuzzGameImpl implements FizzBuzzgame{
 
-
     public String playGame(int number) {
 
         if(number == 0) {
